@@ -7,7 +7,6 @@ The robot is only for an educational project
 
 <b>(!! Any illegal use of the robot is the responsibility of the audience !!)</b></br></br>
  
- 
   
 <h3><p align="left">Prerequisite</p></h3>
   
@@ -20,6 +19,7 @@ The robot is only for an educational project
 - Clone the repository first 
    
    `git clone https://github.com/alirexo/Sms-Spamer-Bot.git`</br></br>
+
     
  
  - Now go to cloned directory and run `SmpaerBot.py`</br>
